@@ -13,9 +13,9 @@
 
 - 👯 I solve all your **business problems**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **ngock@outlook.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
