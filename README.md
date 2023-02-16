@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I solve all your **business problems**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
