@@ -1,15 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samuel</h1>
-<h3 align="center">I'm a passionate Devops Engineer from Africa.</h3>
+<h3 align="center">I'm a passionate Devops Engineer who have carries many DevOps duties in relation with Deploying micro services on both cloud and on-prem using Kubernetes for orchestration and Docker for containerization. I have excelled in building CI/CD pipelines with Jenkins, GitLab CI, maintaining them across multiple environments using YAML Scripts.</h3>
 <h3 align="center"> Consider It done- Simple solutions to Complex connections.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[creating and maintaining modern websites and applications.](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[I am working on projects to migrate web applications to the cloud on AWS, Azure, and GCP. I use AWS as an IaaS provider and Kubernetes for PaaS..](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I master DevOps tools like **Jenkins, GitLab CI, Maven, Gradle, Docker, Kubernetes.**
 
 - 👯 I solve all your **business problems**
 
